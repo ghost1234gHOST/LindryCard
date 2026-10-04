@@ -1,6 +1,5 @@
-on
-   {
-     "version": "0.2",
-     "name": "BETA V0.2",
+{
+     "version": "0.3",
+     "name": "BETA V0.3",
      "notes": ["First test update", "New effects added"]
    }
