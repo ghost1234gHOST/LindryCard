@@ -1,5 +1,14 @@
 {
-     "version": "0.1",
-     "name": "BETA V0.1",
-     "notes": ["First test update", "New effects added"]
-   }
+  "version": "0.1",
+  "name": "BETA V0.1",
+  "notes": [
+    "New name and look: Lindry Card, with a new icon and start-up logo",
+    "Dark theme: switch it with the moon button at the top",
+    "Smooth animations across tabs, buttons and lists",
+    "Your preset, settings, theme and last tab are remembered",
+    "Discord status: show the preset you are using on your profile",
+    "About screen with the developer and contact links",
+    "Update check: the program tells you when a new version is out",
+    "Cleaner start-up and a window that fits the interface"
+  ]
+}
